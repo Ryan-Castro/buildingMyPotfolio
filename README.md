@@ -1,9 +1,10 @@
 # buildingMyPotfolio
  Sistema web para criação de portfólios
-[]  Iniciar Projeto
-    []  Instalar NextJS
-    []  Criar projeto no Firebase
-    []  Instalar Firebase
+[x]  Iniciar Projeto
+    [x]  Instalar NextJS
+    [x]  Criar projeto no Firebase
+    [x]  Instalar Firebase
+    [x]  criar rotas
 
 
 
